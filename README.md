@@ -163,6 +163,9 @@ ecosystem's [Drips Wave](https://docs.drips.network/wave/) program; see
 [ADR 0002](https://github.com/DocForum/docforum-core/blob/main/docs/adr/0002-stellar-escrow-for-fulfillment-payout.md)
 for the readiness plan.
 
+Questions, or want to talk through an issue before picking it up? Join the
+DocForum contributor chat on [Telegram](https://t.me/+NJ-9ZYDA_nE5ZTA0).
+
 ## License
 
 [Apache License 2.0](LICENSE)
